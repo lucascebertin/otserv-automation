@@ -3,7 +3,7 @@
 This is a simple automation to get a otserv up and running based on Docker/Docker-compose.
 
 ## Requirements
-- Docker and docker-compose
+- [Docker](https://www.docker.com/) and docker-compose
 - Inside folder volume/data/world unzip the .zip file named map1.zip to map1.otbm (large files restriction)
 
 ## Getting started
