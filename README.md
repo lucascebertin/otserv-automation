@@ -17,3 +17,6 @@ Point to your IP (a.k.a localhost) and port (defaut 7171) then connect with the 
 
 ## Configs
 There is an account management system (ZNote AAC), refer to the ZNote repo to find instructions of the usage.
+
+Things starting...
+![](https://raw.githubusercontent.com/lucascebertin/otserv-automation/master/assets/gif/starting.gif)
